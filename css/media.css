@@ -1,0 +1,4045 @@
+@media (min-width: 1110px) {
+    .nav__list-podcasts:hover, 
+    .nav__list-transfers:hover, 
+    .nav__list-guests:hover, 
+    .nav__list-playlists:hover,
+    .nav__list-about_us:hover, 
+    .futor-podcasts:hover, 
+    .futor-transfers:hover, 
+    .futor-guests:hover, 
+    .futor-playlists:hover, 
+    .futor-grid:hover, 
+    .futor-about_us:hover, 
+    .futor-news:hover, 
+    .futor-blogs:hover, 
+    .futor-tops:hover {
+        color: #6D31EE;
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s;
+    }
+
+    .search-form:hover path {
+        stroke: #AA9DFA;
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s;
+    }
+
+    .button-entrance:hover {
+        background-color: var(--color6);
+        color: #ffffff;
+        -webkit-transition: 0.5s;
+        -o-transition: 0.5s;
+        transition: 0.5s;
+    }
+
+    .popup__closed:hover circle, .popup__closed:hover path{
+        stroke: #6D31EE;
+    }
+
+    .popup__item__social:hover  path {
+        fill: #6D31EE;
+    }
+
+    .box__login:active, .box__login:hover, .box__login:focus {
+        outline: 0;
+        outline-offset: 0;
+    }
+      
+    .box__pass:active, 
+    .box__pass:hover, 
+    .box__pass:focus {
+        outline: 0;
+        outline-offset: 0;
+    }
+      
+    .news:hover, 
+    .blogs:hover, 
+    .tops:hover, 
+    .surveys:hover, 
+    .ratings:hover, 
+    .advertising:hover {
+        color: #6D31EE;
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s;
+    }
+
+    .block-eliment__play__button__now:hover svg path, 
+    .block-eliment__play__button__earlier:hover svg path {
+        fill: #6D31EE;
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s;
+    }
+
+    .radio__button:hover, 
+    .about_us-button_box:hover {
+        background-color: var(--color5);
+        color: #ffffff;
+        -webkit-transition: 0.5s;
+        -o-transition: 0.5s;
+        transition: 0.5s;
+    }
+
+    #podcasts__show-cards__button:hover {
+        background-color: var(--color3);
+        color: #ffffff;
+        -webkit-transition: 0.9s;
+        -o-transition: 0.9s;
+        transition: 0.9s;
+    }
+
+    .podcast-enable_common:hover circle {
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s;
+        stroke: #6D31EE;
+    }
+      
+    .podcast-enable_common:hover svg path {
+        fill: #6D31EE;
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s;
+    }
+    
+    .podcast-enable_common:hover svg rect  {
+        stroke: #FFFFFF;
+    }
+
+    .choices__inner:hover  {
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s;
+        background-color: #F5F6F7;
+    }
+
+    .transfers-block_links:hover svg path, 
+    .transfers-block_links:hover .transfers-detailed {
+        fill: #6D31EE;
+        color: #6D31EE;
+        -webkit-transition: 0.5s;
+        -o-transition: 0.5s;
+        transition: 0.5s;
+    }
+
+    .guests-button_card:hover {
+        background-color: var(--color5);
+        color: #ffffff;
+        -webkit-transition: 0.5s;
+        -o-transition: 0.5s;
+        transition: 0.5s;
+    }
+
+    .accordion__list:hover circle, 
+    .accordion__list:hover svg path, 
+    .accordion__list:hover .button-accordion, 
+    .accordion__list:active circle, .accordion__list:active svg path,  
+    .accordion__list:active .button-accordion {
+        stroke: #AA9DFA;
+        color: #AA9DFA;
+        -webkit-transition: 0.5s;
+        -o-transition: 0.5s;
+        transition: 0.5s;
+    }
+
+    #f-option1:hover,
+     #f-option2:hover, 
+     #f-option3:hover, 
+     #f-option4:hover, 
+     #f-option5:hover, 
+     #f-option6:hover, 
+     #f-option7:hover, 
+     #f-option8:hover {
+        box-shadow: inset 0 0 0 2px #6D31EE;
+        -webkit-box-shadow: inset 0 0 0 2px #6D31EE;
+    }
+
+    #f-option1:focus-visible,
+     #f-option2:focus-visible, 
+     #f-option3:focus-visible, 
+     #f-option4:focus-visible, 
+     #f-option5:focus-visible, 
+     #f-option6:focus-visible, 
+     #f-option7:focus-visible, 
+     #f-option8:focus-visible {
+        box-shadow: inset 0 0 0 2px #6D31EE;
+        -webkit-box-shadow: inset 0 0 0 2px #6D31EE;
+    }
+
+    .playlists-item:hover .playlist-button_play {
+        display: block;
+        position: absolute;
+        background: #121723;
+        opacity: 0.8;
+        width: 159px;
+        height: 160px;
+        margin: -220px 0px 0px 0px;
+    }
+      
+    .playlists-item:hover .playlists-description {
+        width: 159px;
+        height: 64px;
+        background-color: #6D31EE;
+        color: #FFFFFF;
+        margin: -32px 0px 0px -16px; 
+        padding: 16px 0px 0px 16px;
+    }
+      
+    .playlists-item:hover .playlists-info {
+        position: relative;
+        color: #FFFFFF;
+        margin-left: 0px;
+    }
+
+    .product-buy-href:hover {
+        outline-color: transparent;
+        outline-style: solid;
+        background-color: #F0D288;
+        color: #121723;
+    }
+
+    textarea:hover::-webkit-input-placeholder, 
+    textarea:focus-visible::-webkit-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+    }
+
+    textarea:hover::-moz-placeholder, 
+    textarea:focus-visible::-moz-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover:-ms-input-placeholder, 
+    textarea:focus-visible:-ms-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover::-ms-input-placeholder, 
+    textarea:focus-visible::-ms-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover::-webkit-input-placeholder, 
+    textarea:focus-visible::-webkit-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover::-moz-placeholder, 
+    textarea:focus-visible::-moz-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover:-ms-input-placeholder, 
+    textarea:focus-visible:-ms-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover::-ms-input-placeholder, 
+    textarea:focus-visible::-ms-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover::-webkit-input-placeholder, textarea:focus-visible::-webkit-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover::-moz-placeholder, textarea:focus-visible::-moz-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover:-ms-input-placeholder, textarea:focus-visible:-ms-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover::-ms-input-placeholder, textarea:focus-visible::-ms-input-placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+
+    textarea:hover::placeholder, 
+    textarea:focus-visible::placeholder { 
+        position: absolute;
+        width: 900px;
+        height: 150px;
+        margin: -30px 0px 0px -45px;
+        padding: 30px 22px 8px 44.4px;
+        border-radius: 10px;
+        background-color: #292E39;
+        border-color: #AA9DFA;
+    }
+      
+    input[type="text"].text:hover, 
+    input[type="name"].about_us-name:hover, 
+    input[type="email"].about_us-mail:hover {
+    background-color: #292E39;
+}
+    input[type="text"].text:focus-visible,
+    input[type="name"].about_us-name:focus-visible, 
+    input[type="email"].about_us-mail:focus-visible {
+    border-color: #AA9DFA;
+    background-color: #292E39;
+}
+    
+    input[type="name"].about_us-name:active, 
+    input[type="email"].about_us-mail:active {
+        background-color: #121723;
+    }
+
+    .futor-social:hover path {
+        fill: #6D31EE;
+    }
+}
+
+@media(min-width: 320px) {
+    .product-buy-href:active {
+        background-color: #BB973E;
+        border-color: #BB973E;
+        outline-color: transparent;
+        outline-style: solid;
+    }
+
+    .nav__list-podcasts:active, 
+    .nav__list-transfers:active, 
+    .nav__list-guests:active, 
+    .nav__list-playlists:active, 
+    .nav__list-about_us:active, 
+    .futor-podcasts:active, 
+    .futor-transfers:active, 
+    .futor-guests:active, 
+    .futor-playlists:active,
+    .futor-grid:active, 
+    .futor-about_us:active, 
+    .futor-news:active, 
+    .futor-blogs:active, 
+    .futor-tops:active {
+        color: #4F28A5;
+    }
+
+    .search-form input#search-form__input:focus, 
+    .search-form input#search-form__input:active{
+        outline:none;
+        margin-top: 30px;
+        width: 278px;
+        border-bottom: 1px solid #6D31EE;
+    }
+
+    .search-form:active  path {
+        stroke: #4F28A5;
+    }
+    
+    .button-entrance:active, 
+    .button-box:active {
+        border: none;
+        color: #FFFFFF;
+        background-color: var(--color4);
+    }
+
+    .popup__closed:active circle, 
+    .popup__closed:active path {
+        stroke: #AA9DFA;
+    }
+
+    .popup__item__social:active path {
+        stroke: #AA9DFA;
+        border: none;
+    }
+
+    .news:active, 
+    .blogs:active, 
+    .tops:active, 
+    .surveys:active, 
+    .ratings:active, 
+    .advertising:active {
+        color: #4F28A5;
+    }
+
+    .block-eliment__play__button__now:active svg path, 
+    .block-eliment__play__button__earlier:active svg path {
+        fill: #4F28A5;
+    }
+
+    .radio__button:active, 
+    .about_us-button_box:active {
+        background-color: var(--color4);
+    }
+
+    #podcasts__show-cards__button:active {
+        background-color: var(--color4);
+    }
+
+    .podcast-enable_common:active circle {
+        fill: #4F28A5;
+        stroke: #4F28A5;
+    }
+      
+    .podcast-enable_common:active svg path {
+        fill: #ffffff;
+    }
+    
+    .choices__inner:active {
+        background-color: #D2D5DD;
+        -webkit-transition: 0.4s;
+        -o-transition: 0.4s;
+        transition: 0.4s;
+    }
+
+    .transfers-block_links:active svg path, 
+    .transfers-block_links:active .transfers-detailed {
+        fill: #4F28A5;
+        color: #4F28A5;
+    }
+
+    .guests-button_card:active {
+        border: none;
+        color: #FFFFFF;
+        background-color: var(--color4);
+    }
+
+    .playlists-item:active .playlist-button_play {
+        display: block;
+        background: #121723;
+        opacity: 0.8;
+        width: 159px;
+        height: 160px;
+        margin: -220px 0px 0px 0px;
+    }
+      
+    .playlists-item:active .playlists-description {
+        width: 159px;
+        height: 64px;
+        background-color: #4F28A5;
+        color: #FFFFFF;
+        margin: -33px 0px 0px -16px;
+        padding: 16px 0px 0px 16px;
+    }
+      
+    .playlists-item:active .playlists-info {
+        position: relative;
+        color: #ffffff;
+    }
+      
+    .futor-soc:active path  {
+        fill: #4F28A5;
+    }
+}
+
+@media (min-width: 1920px) {
+    .container {
+      width: 1395px;
+      margin: auto;
+      padding: 0 15px;
+    }
+    
+    .logo {
+      width: 160px;
+      margin: 30px 0px -23px 427px;
+    }
+    
+    .link-logo {
+      width: 100%;
+      height: 20px;
+    }
+    
+    .nav__list {
+      width: 100px;
+      cursor: pointer;
+      padding-left: 160px;
+    }
+
+    .nav__list-podcasts {
+        margin: 0px 58px 0px 208px;
+    }
+    
+    .search-form__svg__position {
+      display: block;
+      margin: 33px 0px 0px 280px;
+      cursor: pointer;
+    }
+
+    .search-form_theme_islands {
+        margin: -75px 0px 0px 1100px; 
+    }
+
+    .button-entrance {
+        margin: -115px 0px 0px 1411px;
+    }
+
+    .header-two__nav-two__list {
+        width: 1440px;
+        margin-left: 0px;
+    }
+    
+    .header-two__nav-two__list__item {
+        margin-top: 2px;
+    }
+      
+    .news {
+        margin-left: 127px;
+    }
+      
+    .block-eliment__line {
+      width: 1px;
+      margin: 15px 0px 0px 513px;
+    }
+      
+    .block-eliment__line2 {
+      width: 1px;
+      margin: -38px 0px 0px 687px;
+    }
+    
+    .block-eliment__line3 {
+      width: 1px;
+      margin: -38px 0px 0px 860px;
+    }
+
+    .block-eliment__previously__on__air {
+      width: 83px;
+      height: 12px;
+      font-family: 'MullerRegular', sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 12px;
+      color: #a1a6b4;
+      margin: -37px 0px 0px 555px;
+      white-space: nowrap;
+    }
+    
+    .block-eliment__music {
+      margin: 5px 0px 0px 555px;
+      padding-bottom: 0px;
+    }
+    
+    .block-eliment__play__button__now, 
+    .block-eliment__play__button__earlier {
+      width: 24px;
+      height: 24px;
+      border: 0;
+      background: transparent;
+      padding: 0;
+      cursor: pointer;
+      margin: -33px 8px 0px 523px;
+    }
+    
+    .block-eliment__play__button__now {
+      margin: -29px 0px 0px 698px;
+    }
+    
+    .block-eliment__now__on__air {
+      width: 89px;
+      height: 12px;
+      font-family:'MullerRegular', sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 12px;
+      color: #a1a6b4;
+      margin: -33px 0px 0px 730px;
+      white-space: nowrap;
+    }
+    
+    .block-eliment__how__so {
+      margin: 5px 0px 0px 730px;
+    }
+    
+    .block-eliment__limitation {
+      width: 46px;
+      height: 60px;
+      margin: -50px 0px 0px 914px;
+    }
+    
+    .radio__photo__microphone {
+      width: 350px;
+      height: 380px;
+      top: 170px;
+      left: 1164px;
+      margin-bottom: 40px;
+    }
+    
+    .radio__bigtext, 
+    .radio__wave__bigtext {
+      width: 635px;
+      min-height: 61px;
+      font-family:'MullerBold', sans-serif;
+      font-size: 60px;
+      line-height: 60px;
+      font-weight: 400;
+      color: #121723;
+      margin: 0px;
+      margin: 146px 0px 0px 128px;
+    }
+    
+    .radio__wave__bigtext {
+      font-family:'MullerRegularItalic', sans-serif;
+      margin-left: 15px; 
+    }
+    
+    .radio__mintext {
+      margin-left: 128px;
+      margin-top: 10px;
+    }
+    
+    .radio__button {
+      margin: 30px 0px 112px 127px;
+    }
+    
+    .radio__button:focus, 
+    .about_us-button_box:focus-visible {
+      outline-color: transparent;
+      outline-style: solid;
+      background-color: var(--color5);
+      color: #ffffff;
+    }
+
+    .spoiler__input, .spoiler__label {
+        display: none;
+    }
+    
+    #podcasts {
+        min-width: 1920px;
+        padding: 0px 0px 94px 0px;
+        background-color: var(--color7);
+    }
+    
+    .podcasts-heading {
+        margin: -19px 0px 0px 128px;
+    }
+
+    .podcasts-list {
+        margin: 0px 0px 0px 126.5px;
+        padding: 0px;
+    }
+
+    .podcasts-item_card__social__block {
+        margin: -23px 0px 0px 137px; 
+    }
+
+    #podcasts__show-cards__button {
+        margin: 25px 0px 0px 560px;
+    }	
+
+    .podcasts-item_card__line__social {
+        margin-top: 137px;
+    }
+
+    #transfers {
+      min-width: 1920px;
+      padding: 0px 0px 64px 0px;
+      background-color: var(--color1);
+    }
+
+    .transfers-list {
+        width: 850px;
+        margin-left: 407px;
+    }
+
+    .transfers-heading, 
+    .transfers-aftor, 
+    .transfers-select_container, 
+    .transfer-microphone, 
+    .transfers-button, 
+    .transfers-archive_description, 
+    .guests-heading, .guests-are {
+        margin-left: 125px;
+    }
+
+    #guests {
+      min-width: 1920px;
+      background-color: var(--color6);
+      padding: 0px 0px 74px 0px;
+    }
+
+    .guests-description {
+        width: 800px;
+        margin: 5px 0px 0px 125px;
+    }
+
+    .list__accordion  {
+        margin: -19px 0px -430px 128px;
+    }
+
+    .button-arrow_svg {
+        left: 1088px;
+    }
+    
+    .guest-block {
+      display: block;
+      width: 350px;
+      height: 540px;
+      left: 1165px;
+      top: 2695px;
+    }
+
+    #playlists {
+      min-width: 1310px;
+      padding: 0px 405px 80px 260px;
+    }
+
+    .playlists-heading, .playlists-genre {
+        margin-left: 135px;
+        margin-top: -5px;
+    }
+
+    .playlists-genre {
+        margin-top: -10px;
+    }
+
+    .playlists-radiobutton {
+        margin: 21px 0px 0px 140px;
+    }
+
+    .playlists-list {
+        margin: -630px 0px 0px 512px;
+    }
+
+    .playlists-radio input {
+        width: 25px;
+        height: 25px;
+        border-radius: 20px;
+        margin-top: 4px;
+    }
+
+    .playlists-line {
+        margin: 11px 0px 0px 135px;
+    }
+
+    .playlist-copyright_wave {
+        margin-left: 135px;
+    }
+
+    .playlist-info, .playlists-limitation_18 {
+        margin: 13px 0px 0px 137px;
+    }
+
+    .playlists-limitation_18 {
+        margin-top: 28px;
+    }
+    
+    #product {
+      min-width: 1920px;
+      min-height: 804px;
+      background: var(--color8);
+    }
+
+    .product-heading {
+        width: 1200px;
+        margin: 0px;
+        padding: 94px 0px 19px 795px;
+    }
+
+    .product-wavy_line {
+        margin: 193px 0px 0px 795px;
+    }
+
+    .product-presentation {
+        width: 1200px;
+        margin: 0px;
+        padding: 19px 0px 12px 795px;
+    }
+
+    .product-description {
+        width: 1200px;
+        margin: 0px;
+        padding: 0px 0px 30px 795px; 
+    }
+
+    .product-price {
+        width: 1200px;
+        margin: 0px;
+        padding: 0px 0px 30px 795px;
+    }
+
+    .product-buy-href {
+        margin: 0px 0px 0px 790px;
+    }
+     
+    .product-svg_icon {
+        margin: 23px 0px 0px 805px;
+    }
+
+    .product-new, .product-photo {
+        margin: 80px 0px 0px 120px;
+    }
+    
+    #about_us {
+      min-width: 1920px;
+      min-height: 1333px;
+      background-color: #121723;
+    }
+
+    .about_us-heading {
+        margin: -14px 0px 0px 130px;
+    }
+
+    .about_us-description {
+        margin: 10px 0px 0px 130px;
+    }
+
+    .about_us-description_title {
+        margin: 5px 0px 0px 130px;
+    }
+
+    .about_us-spiral {
+        margin: -295px 0px 0px 790px;
+    }
+
+    .about_us-star {
+        margin: -275px 0px 0px 980px;
+    }
+
+    .swiper-container_about_us {
+        margin: 25px 0px 0px 130px;
+    }
+
+    .swiper-button-next, 
+    .swiper-button-prev {
+      width: 48px;
+      height: 48px;
+      border-color: #A1A6B4;
+      top: -260px;
+      margin: 0px -1195px 0px -90px;
+    }
+
+    .about_us-box1 {
+        margin: 25px 0px 0px 125px;
+    }
+
+    textarea.about_us-text {
+        width: 920px;
+        height: 150px;
+    }
+
+    .about_us-box2 {
+        margin-left: 90px;
+    }
+    
+    .about_us-mail {
+        margin-left: 510px;
+    }
+
+    .about_us-button_box {
+        margin-left: 130px;
+    }
+
+    .about_us-approval {
+        margin: -50px 0px 0px 130px;
+    }
+    
+    #notify {
+      display: block;
+      width: 47px;
+      height: 12px;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 12px;
+      font-family: 'MullerRegular', sans-serif;
+      top: 0;
+      left: 0;
+      color: #fff;
+      margin: 6263px 0px 0px 435px;
+    }
+    
+    input[type="checkbox"]:checked, 
+    input[type="checkbox"]:not(:checked) {
+      position: relative;
+      width: 1400px;
+      height: 20px;
+      z-index: 10;
+      top: 21px;
+      cursor: pointer;
+      left: -1130px;
+      margin: 53px 0px 0px 0px;
+    }
+    
+    #futor {
+      background: var(--color8);
+      padding-top: 94px;
+      padding-left: 0px;
+    }
+
+    .futor-logo {
+        position: absolute;
+        margin: -40px 0px 0px 130px;
+    }
+
+    .futor-social_indent {
+        margin: 0px 0px 0px 125px;
+    }
+
+    .futor-line {
+        margin: -20px 0px 0px -50px;
+    }
+
+    .futor-product_logo {
+        margin: -2px 0px 0px 170px;
+    }
+
+    .futor-list {
+        margin: -3px 0px 0px 124px;
+    }
+}
+
+@media (min-width: 3000px) {
+    .container {
+      width: 1395px;
+      margin: auto;
+      padding: 0 15px;
+    }
+    
+    .logo {
+      width: 160px;
+      margin: 30px 0px -23px 967px ;
+    }
+    
+    .link-logo {
+      width: 100%;
+      height: 20px;
+    }
+    
+    .nav__list {
+      width: 100px;
+      cursor: pointer;
+      padding-left: 160px;
+    }
+
+    .nav__list-podcasts {
+      cursor: pointer;
+      margin: 0px 58px 0px 208px;
+    }
+    
+    .nav__list-transfers, .nav__list, .nav__list-guests, .nav__list-playlists, .nav__list-about_us {
+      margin: 0px 58px 0px 0px;
+    }
+
+    .nav__list-about_us {
+      margin: 0px 80px 0px 0px;
+    }
+    
+    .search-form__svg__position {
+      display: block;
+      margin: 30px 0px 0px 259px;
+      cursor: pointer;
+    }
+
+    .search-form_theme_islands {
+        margin: -73px 0px 0px 1644px; 
+    }
+
+    .button-entrance {
+        margin-top: -115px;
+        margin-left: 1950px;
+    }
+    
+    .header-two__nav-two__list {
+        width: 1250px;
+        margin-left: 5px;
+    }
+
+    .header-two__nav-two__list__item {
+        margin-top: 2px;
+    }
+
+    .news {
+        margin: 0px 52px 0px 128px;
+    }
+      
+    .block-eliment__line {
+      width: 1px;
+      margin: 16px 0px 0px 1053px;
+    }
+      
+    .block-eliment__line2 {
+      width: 1px;
+      margin: -36px 0px 0px 1227px;
+    }
+    
+    .block-eliment__line3 {
+      width: 1px;
+      margin: -36px 0px 0px 1399px;
+    }
+
+    .block-eliment__previously__on__air {
+      margin: -40px 0px 0px 1095px;
+    }
+    
+    .block-eliment__music {
+      margin: 5px 0px 0px 1096px;
+      padding-bottom: 0px;
+    }
+    
+    .block-eliment__play__button__now, 
+    .block-eliment__play__button__earlier {
+      margin: -35px 8px 0px 1064px;
+    }
+    
+    .block-eliment__play__button__now {
+      margin: -28px 0px 0px 1238px;
+    }
+    
+    .block-eliment__now__on__air {
+      margin: -33px 0px 0px 1270px;
+    }
+    
+    .block-eliment__how__so {
+      margin: 5px 0px 0px 1270px;
+    }
+    
+    .block-eliment__limitation {
+      width: 46px;
+      height: 60px;
+      margin: -48px 0px 0px 1454px;
+    }
+    
+    .radio__photo__microphone {
+      width: 350px;
+      height: 380px;
+      top: 170px;
+      left: 1705px;
+      margin-bottom: 40px;
+    }
+    
+    .radio__bigtext, 
+    .radio__wave__bigtext {
+      width: 635px;
+      min-height: 61px;
+      margin: 143px 0px 0px 127px;
+    }
+    
+    .radio__wave__bigtext {
+      top: 0px;
+      left: 173px;
+      margin-left: 13px; 
+    }
+
+    .radio__mintext {
+        margin-top: 13px;
+    }
+      
+    .radio__button {
+        margin: 30px 0px 112px 127px;
+    }
+    
+    .radio__button:focus, 
+    .about_us-button_box:focus-visible {
+      outline-color: transparent;
+      outline-style: solid;
+      background-color: var(--color5);
+      color: #ffffff;
+    }
+
+    #podcasts {
+        width: auto;
+        padding: 0px 0px 94px 0px;
+        background-color: var(--color7);
+    }
+
+    .podcasts-list {
+        margin-top: 0px;
+    }
+
+    .podcasts-item_card__line__social {
+        width: 427px;
+        margin-left: -30px;
+    }
+
+    .podcasts-item_card__social__block {
+        margin: -23px 0px 0px 4px; 
+    }
+
+    .podcast-enable_common {
+        margin: -110px 0px 0px 319px;
+    }
+    
+    #transfers {
+      width: auto;
+      padding: 0px 0px 64px 0px;
+      background-color: var(--color1);
+    }
+
+    .transfers-list {
+        width: 850px;
+        margin-left: 410px;
+    }
+
+    #guests {
+      width: auto;
+      background-color: var(--color6);
+      padding: 0px 0px 74px 0px;
+    }
+
+    .guests-description {
+        width: 800px;
+        margin: 0px 0px 0px 125px;
+    }
+
+    .list__accordion  {
+        margin: -19px 0px -430px 128px;
+    }
+
+    .accordion  {
+        padding-top: 20px;
+    }
+
+    .button-arrow_svg {
+        left: 1628px;
+    }
+    
+    .guest-block {
+      display: block;
+      width: 350px;
+      height: 540px;
+      left: 1704px;
+      top: 2695px;
+    }
+
+    #playlists {
+      min-width: 1310px;
+      padding: 0px 405px 80px 260px;
+    }
+
+    .playlists-heading, .playlists-genre {
+        margin-left: 205px;
+        margin-top: -7px;
+    }
+
+    .playlists-genre {
+        margin-top: -10px;
+    }
+
+    .playlists-radiobutton {
+        margin: 15px 0px 0px 210px;
+    }
+
+    .playlists-list {
+        margin: -630px 0px 0px 585px;
+    }
+
+    .item-right_rare {
+        margin-left: 30px;
+    }
+
+    .playlists-radio input {
+        width: 25px;
+        height: 25px;
+        border-radius: 20px;
+        margin-top: 4px;
+    }
+
+    .playlists-line {
+        margin: 11px 0px 0px 200px;
+    }
+
+    .playlist-copyright_wave {
+        margin: -35px 0px 0px 207px;
+    }
+
+    .playlist-info, .playlists-limitation_18 {
+        margin: 0px 0px 0px 207px;
+    }
+
+    .playlists-limitation_18 {
+        margin-top: 28px;
+    }
+    
+    #product {
+      width: auto;
+      min-height: 804px;
+      background: var(--color8);
+    }
+
+    .product-heading {
+        min-width: 1200px;
+        margin: 0px;
+        padding: 94px 0px 39px 800px;
+    }
+
+    .product-wavy_line {
+        margin: 210px 0px 0px 795px;
+    }
+
+    .product-presentation {
+        min-width: 1200px;
+        margin: 0px;
+        padding: 19px 0px 12px 795px;
+    }
+
+    .product-description {
+        min-width: 1240px;
+        margin: 0px;
+        padding: 0px 0px 30px 795px; 
+    }
+
+    .product-price {
+        margin: 0px;
+        padding: 2px 0px 30px 795px;
+    }
+
+    .product-buy-href {
+        margin: 0px 0px 0px 795px;
+    }
+     
+    .product-svg_icon {
+        margin: 23px 0px 0px 810px;
+    }
+
+    #about_us {
+      width: auto;
+      min-height: 1333px;
+      background-color: #121723;
+    }
+
+    .about_us-heading {
+        margin: -5px 0px 0px 130px;
+    }
+
+    .swiper-container_about_us {
+        margin: 40px 0px 0px 130px;
+    }
+
+    .swiper-button-next, 
+    .swiper-button-prev {
+      width: 48px;
+      height: 48px;
+      border-color: #A1A6B4;
+      top: -260px;
+      margin: 0px -1195px 0px -90px;
+    }
+
+    .about_us-box1 {
+        margin: 25px 0px 0px 125px;
+    }
+
+    textarea.about_us-text {
+        width: 920px;
+        height: 150px;
+    }
+
+    .about_us-box2 {
+        margin-left: 90px;
+    }
+    
+    .about_us-mail {
+        margin-left: 510px;
+    }
+
+    .about_us-button_box {
+        margin: -20px 0px 0px 130px;
+    }
+
+    .about_us-approval {
+        margin: -50px 0px 0px 130px;
+    }
+    
+    #notify {
+      display: block;
+      width: 47px;
+      height: 12px;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 12px;
+      font-family: 'MullerRegular', sans-serif;
+      top: 0;
+      left: 0;
+      color: #fff;
+      margin: 6233px 0px 0px 975px;
+    }
+    
+    input[type="checkbox"]:checked, 
+    input[type="checkbox"]:not(:checked) {
+      position: relative;
+      width: 2200px;
+      height: 20px;
+      z-index: 10;
+      top: 21px;
+      cursor: pointer;
+      left: -2080px;
+      margin: 53px 0px 0px 0px;
+    }
+    
+    #futor {
+      background: var(--color8);
+      padding-top: 94px;
+      padding-left: 0px;
+    }
+
+    .futor-logo {
+        position: absolute;
+        margin: -40px 0px 0px 130px;
+    }
+
+    .futor-social_indent {
+        margin: 0px 0px 0px 125px;
+    }
+
+    .futor-line {
+        margin: 0px 0px 0px -50px;
+    }
+
+    .futor-product_logo {
+        margin: -2px 0px 0px 120px;
+    }
+
+    .futor-list {
+        margin: -3px 0px 0px 124px;
+    }
+}
+
+@media (max-width: 1024px) {
+  .container {
+      width: 1024px;
+      margin: 0px;
+      padding: 0px;
+  }
+
+  .logo {
+      display: block;
+      width: 1024px;
+      padding: 23px 0px 23px 0px;
+      background-color: var(--color7);
+      margin: 0px;
+  }
+  
+  .link-logo {
+      margin-left: 100px;
+      position: relative;
+      width: 112px;
+      height: 14px;
+  }
+  
+  .nav-cap {
+      width: 1024px;
+      height: 50px;  
+      margin: 0px;
+      background-color: var(--color1);
+  }
+
+  .nav__list {
+      cursor: pointer;
+      margin: 30px 0px 30px 0px;
+  }
+
+  .emptiness {
+      display: none;
+  }
+
+  .header__nav-list {
+      height: 20px;
+      margin-left: 100px;
+  }
+    
+  .nav__list-podcasts {
+      margin: 0px 58px 0px -60px;
+  }
+    
+  .nav__list-transfers, .nav__list-guests, .nav__list-playlists, .nav__list-about_us {
+      margin: 0px 58px 0px 0px;
+  }
+    
+   .nav__list-guests {
+      margin-left: 10px;
+    }
+
+    .nav__list-about_us {
+      margin: 0px 34px 0px 5px;
+    }
+
+  .search-form_theme_islands {
+      margin: -83px 0px 0px 520px; 
+  }
+
+  .button-entrance {
+      margin: -50px 0px 0px 838px;
+  }
+
+  .block-eliment {
+      margin-top: -83px;
+      margin-left: 465px;
+  }
+
+  .news {
+        margin: 0px 27px 0px 103px;
+    }
+    
+  .blogs, .tops, .surveys, .ratings, .advertising {
+     margin-right: 27px;
+     margin-left: 3px;
+    }
+
+  .block-eliment__line {
+      width: 1px;
+      margin-left: 175px;
+  }
+  
+  .block-eliment__line2 {
+      width: 0.99px;
+      margin: -50px 10px 0px 330px;
+  }
+
+  .block-eliment__line3 {
+      width: 1px;
+      margin: -53px 10px 0px 480px;
+  }
+
+  .block-eliment__play__button__earlier {
+      margin: -33px 8px 18px 185px;
+  }
+
+  .block-eliment__play__button__now {
+      margin: -39px 8px 18px 340px;
+  }
+
+  .block-eliment__previously__on__air {
+      margin-left: 218px;
+  }
+
+  .menu-burger {
+    display: none;
+  }
+
+  .block-eliment__music {
+      margin-left: 218px;
+      margin-bottom: 14px;
+  }
+
+  .header-two__nav-two__list {
+      margin-left: 0px;
+      width: 1024px;
+  }
+
+  .block-eliment__now__on__air {
+      margin: -45px 0px 0px 370px;
+  }
+
+  .search-form__svg__position {
+    margin: 30px 0px 0px 264px;
+  }
+  
+  .search-form_theme_islands {
+    margin: -82px 0px 0px 528px; 
+  }
+
+  .block-eliment__how__so {
+      margin: 5px 0px 14px 365px;
+  }
+
+  .block-eliment__limitation {
+      display: none;
+  }
+
+  .radio {
+      width: 873px;
+  }
+
+  .radio__photo__microphone {
+      width: 256px;
+      height: 270px;
+      top: 290px;
+      left: 687px;
+      background: url("../img/microphone2.jpg");  
+  }
+    
+  .radio__bigtext, .radio__wave__bigtext {
+      width: 539px;
+      height: 61px;
+      margin: 145px 0px 0px 104px;
+  }
+    
+  .radio__wave__bigtext {
+      font-weight: 400;
+      margin-left: 20px; 
+  }
+    
+  .radio__mintext {
+      width: 539px;
+      height: 97px;
+      margin: 14px 0px 0px 104px;
+  }
+    
+  .radio__button {
+      margin: 20px 0px 90px 100px;
+  }
+
+  #podcasts  {
+      min-width: 1024px;
+      padding: 0px 0px 92px 0px;
+  }
+
+  .podcasts-heading {
+      margin-left: 100px;
+  }
+
+  .podcasts-list {
+      min-width: 854px;
+      margin: 0px 0px 0px 100px;
+      padding: 0px;
+  }
+    
+  .podcasts-item_card {
+      width: 397px;
+      height: 140px;
+  }
+    
+  #podcasts__show-cards__button {
+      margin: 65px 0px 0px 395px;
+  }	
+    
+  .podcasts-item_card__line__social {
+      width: 284px;
+      margin-left: -30px;
+  }
+    
+  .podcasts-item_card__description {
+      width: 156px;
+  }
+    
+  .podcast-enable_common {
+      margin: -105px 0px 0px 195px;
+  }
+
+  #transfers {
+      min-width: 854px;
+      padding: 0px 0px 64px 0px;
+  }
+
+  .transfers-heading,
+  .transfers-aftor, 
+  .transfers-select_container, 
+  .transfers-button, 
+  .transfer-microphone, 
+  .transfers-archive_description {
+      margin-left: 100px;
+  }
+
+  .transfers-list {
+      width: 550px;
+      margin-left: 387px;
+  }
+
+  .card-left, 
+  .card-right_mini {
+      margin-left: 30px;
+  }
+
+  .item-right_rare {
+      margin-bottom: 30px;
+  }
+
+  #guests  {
+      padding: 0px 0px 74px 0px;
+      min-width: 1024px;
+  }
+
+  .guests-heading, 
+  .guests-are, 
+  .guests-description, 
+  .list__accordion, 
+  .playlists-heading, 
+  .playlists-genre, 
+  .playlists-radiobutton, 
+  .playlist-info {
+      margin-left: 100px;
+  }
+
+  .guests-description {
+      width: 420px;
+      min-height: 96px;
+  }
+
+  .blogers {
+      width: 540px;
+  }
+
+  .button-arrow_svg {
+      left: 585px;
+      margin-top: -12px;
+  }
+
+  .guests-name {
+      width: 200px;
+  }
+    
+  .guest-block {
+      width: 255px;
+      height: 556px;
+      left: 675px;
+      top: 3155px;
+  }
+
+  .guests-name_card {
+      width: 200px;
+  }
+
+  .guest-description {
+      width: 255px;
+  }
+
+  .guests-button_card {
+      margin-top: 105px;
+  }
+
+  #about_us {
+        min-width: 1024px;
+        padding: 0px;
+  }
+
+  .guest-photo {
+      width: 255px;
+      height: 159px;
+  }
+
+  .ac-panel {
+      width: 540px;
+  }
+
+  #playlists {
+      min-width: 1024px;
+      padding: 0px 0px 0px 0px;
+  }
+
+  .playlists-radiobutton2 {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      flex-direction: column;
+      -ms-flex-direction: column;
+      -webkit-box-orient: vertical;
+      margin: -147px 0px 0px 163px;
+      -webkit-box-direction: normal;
+  }
+  
+  .playlists-line {
+    position: absolute;
+      width: 824px;
+      margin: 625px 0px 38px 100px;
+  }
+
+  .playlist-info, 
+  .playlist-copyright_wave {
+      position: absolute;
+      width: 824px;
+      min-height: 22px;
+      padding-top: 38px;
+      color: #A1A6B4;
+      margin-top: 625px;
+  }
+    
+  .playlist-copyright_wave {
+      position: absolute;
+      margin: 645px 0px 0px 100px; 
+  }
+
+  .playlists-limitation_18 {
+      margin: 710px 0px 0px 100px;
+  }
+
+  .playlists-list {
+    position: absolute;
+      min-width: 900px;
+      margin: -720px 0px 0px 100px;
+  }
+
+  .item-right_rare {
+      margin-left: 0px;
+  }
+  
+  .item-right_mini {
+    margin-left: 30px;   
+  }
+
+  .card-right_mini {
+      margin-left: 30px;
+  }
+
+  .playlists-item {
+      width: 254px;
+      min-height: 112px;
+  }
+
+  .playlist-photo {
+      width: 112px;
+      height: 111px;
+  }
+
+  .playlists-flag {
+      margin: -115px 0px 0px -1px;
+  }
+  
+  .playlists-description {
+      font-weight: 500;
+      margin: -75px 0px 0px 105px;
+  }
+    
+  .playlists-info {
+    position: absolute;
+      font-weight: 400;
+      margin: -58px 0px 0px 105px;
+  }
+
+  .playlists-item:active .playlists-flag {
+    margin-top: -70px;
+  }
+
+  .playlists-item:active .playlist-button_play {
+      display: block;
+      position: absolute;
+      background: #121723;
+      opacity: 0.8;
+      width: 112px;
+      height: 111px;
+      margin: -70px 0px 0px 0px;
+  }
+    
+  .playlists-item:active .playlists-description {
+      width: 141px;
+      height: 64px;
+      background-color: #4F28A5;
+      color: #FFFFFF;
+      margin: -35px 0px 0px 96px;
+      padding: 16px 0px 0px 10px;
+  }
+    
+  .playlists-item:active .playlists-info {
+      position: relative;
+      color: #ffffff;
+      margin-left: 107px;
+  }
+
+  #product {
+      min-width: 1024px;
+      min-height: 823px;
+      padding: 0px;
+      margin-top: 94px;
+  }
+    
+  .product-new {
+      width: 100px;
+      height: 100px;
+      margin: 212px 0px 0px 100px;
+      background: url("../img/photo__new2.svg");
+  }
+    
+  .product-photo {
+      width: 397px;
+      height: 349px;
+      background: url("../img/photo__product2.png");
+      margin: 217px 0px 140px 100px;
+  }
+    
+  .product-heading {
+    width: 900px;
+    margin: 0px;
+    padding: 94px 0px 19px 520px;
+  }
+    
+  .product-wavy_line {
+      width: 395px;
+      margin: 210px 0px 19px 520px;
+  }
+    
+  .product-presentation, 
+  .product-description {
+      width: 880px;
+      min-height: 145px;
+      line-height: 28px;
+      margin: 0px;
+      padding: 40px 0px 12px 520px;
+  }
+    
+  .product-description {
+      width: 880px;
+      min-height: 165px;
+      margin: 0px;
+      padding: 5px 0px 30px 520px; 
+  }
+    
+  .product-price {
+    margin: 0px;
+    padding: 0px 0px 30px 520px;
+  }
+    
+  .product-svg_icon {
+    margin: 23px 0px 0px 540px;
+  }
+    
+  .product-buy-href {
+    margin: 0px 0px 0px 520px;
+  }
+
+  #about_us {
+    min-width: 1024px;
+    min-height: 1364px;
+    }
+
+  .about_us-heading {
+      margin-left: 100px;
+  }
+
+  .about_us-spiral {
+      display: none;
+  }
+
+  .about_us-star {
+      margin: -290px 0px 0px 660px;
+  }
+
+  .about_us-description {
+      width: 580px;
+      height: 60px;
+      padding-bottom: 0px;
+      margin-left: 100px;
+      margin-bottom: 8px;
+  }
+
+  .about_us-description_title {
+      width: 517px;
+      height: 224px;
+      margin-left: 100px;
+  }
+
+  #notify {
+      margin: 6825px 0px 0px 130px;
+  }
+
+  .swiper-container_about_us {
+      width: 1700px;
+      margin-left: 45px;
+  }
+
+  .about_us-mobile_swiper_container {
+      width: 890px;
+      height: 370px;
+      margin: 30px 0px 30px 50px;
+      overflow: hidden;
+  }
+
+  .about_us-leading_ether {
+      margin-left: 10px;
+  }
+
+  .about_us-description_presenter {
+      margin-left: 10px;
+  }
+
+  .about_us-photo_presenter {
+      padding: 0px 10px 0px 10px;
+  }
+
+  .swiper-button-next, 
+  .swiper-button-prev {
+      border-color: #A1A6B4;
+      margin: 0px -910px 0px -65px;
+  }
+    
+  .about_us-description_presenter {
+      width: 397px;
+      height: 24px;
+  }
+
+  #form {
+      margin: 7px 0px 0px 65px;
+  }
+
+  .about_us-box2 {
+      width: 397px ;
+      margin-left: 0px;
+  }
+
+  textarea.about_us-text {
+      width: 824px;
+      height: 150px;
+  }
+    
+  input.about_us-mail {
+      width: 397px;
+  }
+
+  .about_us-mail {
+      margin: -50px 0px 100px 460px;
+  }
+
+  .about_us-text {
+      margin-left: 30px;
+  }
+    
+  .about_us-button_box {
+      margin: -15px 0px 0px 40px;
+      padding: 25px 54px;
+  }
+    
+  .about_us-approval {
+      width: 0px;
+      height: 15px;
+      margin: 10px 0px 0px 40px;
+  }
+
+  input[type="checkbox"]:checked, 
+  input[type="checkbox"]:not(:checked) {
+    width: 900px;
+    top: 20px;
+    left: -570px;
+    margin: 0px 0px 0px 0px;
+  }
+
+  #futor {
+    min-width: 1024px;
+      background: var(--color8);
+      padding-top: 94px;
+      padding-left: 0px;
+  }
+    
+  .futor-logo {
+      margin: 0px 0px 20px 100px;
+  }
+
+  .futor-social_indent, 
+  .futor-list {
+      margin-left: 100px;
+  }
+  
+  .futor-item {
+      margin: -280px 0px 0px 380px;
+  }
+
+  .futor-product_logo {
+      margin-left: 10px;
+      padding-bottom: 10px;
+  }
+
+  .futor-line {
+      width: 1200px;
+      margin-left: 0px;
+  }
+}
+
+@media (max-width: 768px) {  
+  .container {
+      width: 768px;
+  }
+
+  body {
+    min-width: 768px;
+  }
+
+  .logo {
+      display: block;
+      width: 768px;
+      padding: 23px 0px 23px 0px;
+      background-color: var(--color7);
+      margin: 0px;
+  }
+  
+  .link-logo {
+      margin-left: 114px;
+      position: relative;
+      width: 112px;
+      height: 14px;
+  }
+  
+  .nav-cap {
+      width: 0px;
+      height: 0px;  
+  }
+
+  .nav__list {
+      cursor: pointer;
+      margin: 109px 0px 0px 0px;
+      padding: 0px;
+  }
+
+  .nav__item {
+      padding: 0px;
+  }
+
+  .emptiness {
+      display: none;
+  }
+    
+  .nav__list-podcasts {
+      margin: 0px 0px 0px 114px;
+      padding-bottom: 64px;
+  }
+    
+  .nav__list-transfers {
+      position: absolute;
+      margin: 85px 0px 0px -95px;
+      padding-bottom: 64px;
+  }
+    
+  .nav__list-guests {
+      position: absolute;
+      margin: 170px 0px 0px -95px;
+      padding-bottom: 106px;
+  }
+    
+  .nav__list-playlists {
+      margin: -60px 0px 0px 48px;
+  }
+    
+  .nav__list-about_us {
+      position: absolute;
+      margin: 85px 0px 0px -107px;
+  }
+
+  .spiral-img, 
+  .spiral_img-two {
+      display: block;
+      position: relative;
+      width: 115px;
+      height: 313px;
+      margin: -23px 0px 0px 35px;
+  }
+
+  .spiral_img-two {
+      margin: -461px 0px 0px 180px;
+  }
+  
+  .nav {
+      display: block;
+      position: absolute;
+      z-index: 11;                      
+      top: 75px;
+      left: 0;
+      background: var(--color7);
+      width: 768px;
+      height: 400px;
+      margin-top: -11px;
+      left:-107%;
+      transition: all 0.4s ease;
+      -o-transition: all 0.4s ease;
+      -webkit-transition: all 0.4s ease;
+  }
+
+  .header__nav-menu {
+      display: block;
+  }
+
+  .nav.open-menu, 
+  .header-two__nav-two.open-menu__two {
+      left:0;
+  }
+
+  .menu-burger {
+      position: absolute;
+      display: block; 
+      width: 30px; 
+      height: 23px; 
+      z-index: 12;
+      display: block;
+      margin: 28px 0px 54px 114px;
+  }
+
+  .menu-burger span, 
+  .menu-burger:after, 
+  .menu-burger:before{
+      height: 3px;
+      width: 24px; 
+      position: absolute;
+      z-index: 20;
+      margin: 0 auto;
+      border-radius: 4px;
+      background-color: var( --color3);
+  }
+
+  .menu-burger span{
+      top: 8px; 
+  }
+
+  .menu-burger:after, 
+  .menu-burger:before{
+      content: '';
+  }
+
+  .menu-burger:after{
+      bottom: 4px;  
+  }
+
+  .menu-burger-cross.open-menu span {
+      opacity:0; 
+      -webkit-transition: 0.5s; 
+      -o-transition: 0.5s; 
+      transition: 0.5s; 
+  }
+
+  .menu-burger-cross.open-menu:before {
+      top: 16px;
+      width: 23px;
+      -webkit-transition: 0.4s;
+      -o-transition: 0.4s;
+      transition: 0.4s;
+      transform: matrix(0.71, 0.74, -0.67, 0.71, 0, 0);
+      -ms-transform: matrix(0.71, 0.74, -0.67, 0.71, 0, 0);
+      -webkit-transform: matrix(0.71, 0.74, -0.67, 0.71, 0, 0);
+  }                                                                                                   
+
+  .menu-burger-cross.open-menu:after {
+      width: 23px;
+      -webkit-transition: 0.4s;
+      -o-transition: 0.4s;
+      transition: 0.4s;
+      transform: matrix(0.71, -0.74, 0.67, 0.71, 0, 0);
+      -ms-transform: matrix(0.71, -0.74, 0.67, 0.71, 0, 0);
+      -webkit-transform: matrix(0.71, -0.74, 0.67, 0.71, 0, 0);
+  }
+
+  header {
+      height: 60px;
+  }
+
+  .content-wrapper {
+      margin-top: 48px;
+  }
+
+  .fixed-pade {
+      overflow: hidden;
+  }
+
+  .search-form_theme_islands {
+      margin: -65px 0px 0px 242px;
+  }
+
+  .button-entrance {
+      margin: -55px 0px 0px 555px;
+  }
+
+  .header-two__nav-two__list {
+      width: 768px;
+      margin-top: 20px;
+  }
+
+  .news {
+      margin: 0px 28px 0px 111px;
+      padding: 0px;
+  }
+
+  .blogs, .tops, .surveys, .ratings, .advertising {
+      margin-right: 28px;
+  }
+ 
+  .advertising {
+      margin-left: 0px;
+  }
+
+  .block-eliment__music,  
+  .block-eliment__line, 
+  .block-eliment__line2, 
+  .block-eliment__line3, 
+  .block-eliment__how__so, 
+  .block-eliment__limitation, 
+  .block-eliment__now__on__air, 
+  .radio__photo__microphone,
+  .block-eliment__play__button__earlier, 
+  .block-eliment__previously__on__air {
+      display: none;
+  }
+
+  .block-eliment {
+      margin-top: -81px;
+  }
+
+  .block-eliment__play__button__now {
+      display: block;
+      margin: 22px 0px 0px 168px;
+  }
+
+  .radio {
+      width: 729px;
+  }
+
+  .radio__bigtext, 
+  .radio__wave__bigtext {
+      width: 439px;
+      min-height: 61px;
+      margin: 130px 0px 0px 114px;
+  }
+    
+  .radio__wave__bigtext {
+      width: 250px;
+      font-family: 'MullerNarrow-LightItalic', sans-serif;
+      margin-left: 13px; 
+  }
+    
+  .radio__mintext {
+      width: 539px;
+      height: 97px;
+      margin: 20px 0px 0px 114px;
+  }
+    
+  .radio__button {
+      margin: 20px 0px 86px 106px;
+  }
+
+  .popup__closed { 
+      width: 42px;
+      height: 42px;    
+      margin: -5px 0px 0px 425px;
+  }
+    
+  .popup__border__list {
+      width: 459px;
+  }
+
+  .popup__item__social__vk {
+      margin: -2.5px 0px 0px 75px;
+  }
+    
+  .popup__item__social__google {
+      position: absolute;
+      margin: -3px 0px 0px 150px;
+  }
+
+  .box {
+      width: 459px;
+  }
+    
+  .box input,
+  .box textarea {
+      width: 424px; 
+  }
+    
+  .popup__container {
+      width: 540px;
+      height: 655px;
+      z-index: 10;
+      margin-left: 0px;
+      padding: 40px;
+  }
+    
+  #podcasts {
+      min-width: 768px;
+      padding: 0px 0px 94px 0px;
+  }
+
+  .podcasts-heading {
+      margin-left: 114px;
+  }
+
+  .podcasts-item_card__line__social {
+      width: 428px;
+      height: 1.60px;
+  }
+
+  .podcasts-list {
+      min-width: 350px;
+  }
+
+  #podcasts-cards {
+      -ms-grid-columns: 1fr;
+      grid-template-columns: repeat(1, 1fr);
+  }
+    
+  .podcasts-item_card {
+      width: 540px;
+      margin: 0px 0px 30px 15px;
+  }
+    
+  #podcasts__show-cards__button {
+      margin: 35px 0px 0px 261px;
+  }	
+    
+  .podcasts-item_card__release__date {
+      padding: 3px 10px 3px 10px;
+  }
+
+  .podcast-enable_common {
+      margin: -100px 0px 0px 320px;
+  }
+
+  #transfers {
+      min-width: 568px;
+      padding: 0px 0px 30px 0px;
+  }
+
+  .transfers-heading, 
+  .transfers-aftor, 
+  .transfers-select_container {
+      margin-left: 114px;
+  }
+    
+  .transfer-microphone {
+      position: absolute;
+      top: 3580px;
+      margin: 0px 0px 0px 212px;
+      padding-bottom: 30px;
+  }
+    
+  .transfers-button {
+    position: absolute;
+      top: 3580px;
+      margin: 0px 0px 8px 300px;
+  }
+
+  .transfer-line {
+      display: block;
+      position: absolute;
+      padding-bottom: 30px;
+      width: 770px;
+      top: 3545px;
+      margin: 0px;
+  }
+    
+  .transfers-archive_description {
+      display: block;
+      margin: 1033px 0px 30px 300px;
+  }
+    
+  .transfers-list {
+      margin: -1065px 0px 0px 114px;
+  }
+
+  #guests {
+      min-width: 768px;
+  }
+
+  .guests-are, 
+  .guests-heading, 
+  .list__accordion, 
+  .guests-description, 
+  .playlist-info {
+      margin-left: 114px;
+  }
+  
+  .button-arrow_svg {
+      left: 600px;
+      margin-top: -12px;
+  }
+
+  #guests  {
+      min-width: 768px;
+      min-height: 1730px;
+      padding-left: 0px;
+      padding-bottom: 94px;
+      margin: 158px 0px 0px 0px;
+  }
+
+  .guests-description {
+      width: 420px;
+      min-height: 96px;
+  }
+    
+  .guest-block {
+      width: 540px;
+      min-height: 511px;
+      left: 114px;
+      top: 4810px;
+      padding: 50px 0px 94px 0px;
+  }
+
+  .guests-name {
+      margin-bottom: 15px;
+  }
+
+  .guest-photo {
+      width: 540px;
+      height: 220px;
+  }
+
+  .guest-description {
+      width: 398px;
+      margin-bottom: 30px;
+  }
+
+  .guests-button_card {
+      margin: -10px 0px 0px 0px;
+  }
+
+  #playlists {
+      min-width: 768px;
+      padding: 0px 0px 94px 0px;
+  }
+
+  .playlists-radio span {
+      padding: 0 12px;
+  }
+  
+  .playlists-line {
+      width: 540px;
+      margin: 942px 0px 38px 110px;
+  }
+
+  .playlists-heading, 
+  .playlists-genre, 
+  .playlists-radiobutton {
+      margin-left: 114px;
+  }
+
+  .playlist-info, 
+  .playlist-copyright_wave {
+      width: 439px;
+      min-height: 44px;
+      padding-top: 38px;
+      margin-top: 940px;
+  }
+    
+  .playlist-copyright_wave {
+      margin: 984px 0px 0px 114px; 
+  }
+
+  .playlists-limitation_18 {
+      position: absolute;
+      margin: 1048px 0px 0px 114px;
+      padding-bottom: 94px;
+  }
+
+  .playlists-list {
+      position: relative;
+      min-width: 190px;
+      margin: 45px 0px 0px 114px;
+  }
+
+  .card-right_mini, 
+  .playlists-item, 
+  .item-right, 
+  .item-right_rare {
+      margin: 0px;
+  }
+
+  .card-right_mini {
+      margin-left: 30px;
+      margin-bottom: 30px;
+  }    
+
+  .item-left {
+      margin-left: 30px;
+      margin-bottom: 30px;
+  }
+
+  #product {
+      min-width: 168px;
+      min-height: 1210px;
+      padding-left: 0px;
+  }
+    
+  .product-new {
+      width: 160px;
+      height: 160px;
+      margin: 54px 0px 0px 114px;
+      background: url("../img/photo__new.svg");
+  }
+    
+  .product-photo {
+      width: 540px;
+      height: 474px;
+      background: url("../img/photo__product3.png");
+      margin: 54px 0px 140px 114px;
+  }
+    
+  .product-heading {
+      width: 500px;
+      margin: 0px;
+      padding: 580px 0px 19px 114px;
+  }
+    
+  .product-wavy_line {
+      width: 539px;
+      margin: 695px 0px 19px 114px;
+  }
+    
+  .product-presentation, 
+  .product-description {
+      width: 650px;
+      min-height: 80px;
+      margin: 0px;
+      padding: 25px 0px 12px 114px;
+  }
+    
+  .product-description {
+      width: 490px;
+      min-height: 140px;
+      margin: 0px;
+      padding: 0px 0px 30px 114px;
+  }
+    
+  .product-price {
+      margin: 0px;
+      padding: 0px 0px 30px 114px;
+  }
+    
+  .product-svg_icon {
+      margin: 23px 0px 0px 130px;
+  }
+    
+  .product-buy-href {
+      margin: 0px 0px 94px 114px;
+  }
+
+  #about_us {
+      min-width: 768px;
+      min-height: 1614px;
+      padding: 0px;
+  }
+
+  .about_us-heading {
+      margin-left: 114px;
+  }
+
+  #notify {
+      margin: 9299px 0px 0px 149px;
+  }
+
+  .about_us-description {
+      margin-left: 114px;
+      margin-bottom: 0px;
+  }
+
+  .about_us-description_title {
+      margin-left: 114px;
+      margin-bottom: 30px;
+  }
+
+  input[type="checkbox"]:checked, 
+  input[type="checkbox"]:not(:checked) {
+    width: 640px;
+    top: 25px;
+    left: -455px;
+    margin: -50px 0px 0px 0px;
+  }
+
+  .about_us-spiral {
+      display: block;
+      width: 513px;
+      height: 114px;
+      margin: 5px 0px 0px -40px;
+      background: url("../img/about_us__spiral2.svg");
+  }
+
+  .about_us-star {
+      width: 112px;
+      height: 112px;
+      margin: -110px 0px 30px 510px;
+      background: url("../img/about_us__star2.svg");
+  }
+
+  .swiper-container_about_us {
+      width: 1200px;
+  }
+
+  .about_us-mobile_swiper_container {
+      width: 650px;
+      height: 400px;
+      margin: 5px 0px 30px 55px;
+      overflow: hidden;
+  }
+
+  .about_us-photo_presenter {
+      padding: 0px 15px 0px 15px;
+  }
+
+  .swiper-button-next, 
+  .swiper-button-prev {
+      border-color: #A1A6B4;
+      top: -265px;
+      margin: 0px -644px 0px -60px;
+  }
+
+  #form {
+      width: 650px;
+      margin-top: 60px;
+      margin-left: 84px;
+  }
+
+  .about_us-description_presenter {
+      width: 205px;
+      height: 24px;
+      margin-left: 15px;
+  }
+
+  .about_us-leading_ether {
+      margin-left: 15px;
+  }
+
+  .about_us-box2 {
+      width: 540px ;
+      margin-left: 0px;
+  }
+
+  textarea.about_us-text {
+      width: 540px;
+      height: 150px;
+  }
+    
+  input.about_us-mail {
+      width: 540px;
+  }
+
+  .about_us-mail {
+      margin: 50px 0px 0px 30px;
+  }
+
+  .about_us-text {
+      margin-top: -30px;
+      margin-left: 30px;
+  }
+    
+  .about_us-button_box {
+      margin: 85px 0px 20px 40px;
+      padding: 25px 54px;
+  }
+    
+  .about_us-approval {
+      margin: 0px 0px 0px 40px;
+  }
+
+  #futor {
+      min-width: 468px;
+      height: 485px;
+  }
+
+  .futor-logo {
+      margin: 0px 0px 20px 304px;
+  }
+    
+  .futor-social_indent {
+      width: 180px;
+      margin-left: 304px;
+      padding-bottom: 80px;
+  }
+    
+  .futor-social {
+      width: 36px;
+      height: 36px;
+      margin-right: 20px;
+  }
+
+  .futor-item {
+      padding: 0px 0px 80px 0px;
+      margin: -0px 0px 0px 0px;
+  }
+   
+  .futor-list {
+      margin-left: 114px;
+      padding-bottom: 180px;
+  }
+
+  .futor-playlists, 
+  .futor-grid, 
+  .futor-about_us {
+      margin-left: 232px;
+  }
+    
+  .futor-news, 
+  .futor-blogs, 
+  .futor-tops {
+      margin-left: 474px;
+  }
+   
+  .futor-line {
+      width: 100%;
+      padding-bottom: 10px;
+  }
+    
+  .futor-product_logo {
+      margin-left: 0px;
+      padding-left: 325px;
+      padding-bottom: 0px;
+  }
+}
+
+@media (max-width: 320px) {  
+    .container {
+        width: 320px;
+    }
+  
+    body {
+      min-width: 320px;
+    }
+
+    .logo {
+        width: 320px;
+        height: 54px;
+        padding: 18px 0px 22px 0px;
+    }
+    
+    .link-logo {
+        margin-left: 32px;
+        width: 87px;
+        height: 10px;
+    }
+    
+    .nav__list {
+        cursor: pointer;
+        margin: 109px 0px 0px 0px;
+    }
+
+    .nav__list-podcasts {
+        position: absolute;
+        cursor: pointer;
+        margin: -41px 0px 0px 32px; 
+        padding-bottom: 40px;
+    }
+      
+    .nav__list-transfers {
+        margin: 20px 0px 0px 32px;
+        padding-bottom: 40px;
+    }
+      
+    .nav__list-guests {
+        margin: 80px 0px 0px 32px;
+        padding-bottom: 24px;
+    }
+      
+    .nav__list-playlists {
+        position: absolute;
+        margin: -13px 0px 10px 178px;
+        padding-right: 38px;
+    }
+    
+    .nav__list-about_us {
+        position: absolute;
+        margin: 50px 0px 10px 179px;
+    }
+
+    .spiral-img, 
+    .spiral_img-two {
+        display: none;
+    }
+
+    .nav {
+        display: block;
+        top: 64px;
+        left: 0;
+        background: var(--color7);
+        width: 320px;
+        height: 248px;
+        margin-top: -16px;
+        -webkit-transition: all 0.4s ease;
+        -o-transition: all 0.4s ease;
+        transition: all 0.4s ease;
+        left:-105%;
+    }
+
+    .menu-burger {
+        position: absolute; 
+        width: 30px; 
+        height: 23px; 
+        z-index: 12;
+        display: block;
+        margin: 13px 0px 24px 32px;
+    }
+
+    .header-two__nav-two__list {
+        border: none;
+    }
+
+    .header-two__nav-two {
+        display: block;
+        position: absolute;
+        z-index: 11;                      
+        top: 310px;
+        background: var(--color1);
+        width: 320px;
+        height: 175px;
+        margin-top: -14.5px;
+        -webkit-transition: all 0.4s ease;
+        -o-transition: all 0.4s ease;
+        transition: all 0.4s ease;
+        left: -100%;
+    }
+
+    .search-form__svg__position {
+        display: block;
+        margin: 33px 0px 0px 280px;
+        cursor: pointer;
+    }
+
+    .search-form_theme_islands {
+        margin: -52px 0px 0px -15px;
+    }
+
+    .search-form input#search-form__input:focus, 
+    .search-form input#search-form__input:active{
+        outline: none;
+        width: 190px;
+        margin: 30px 0px 0px 80px;
+        opacity: 1;
+    }
+    
+    .button-entrance {
+        width: 39px;
+        height: 16px;
+        margin: -127px 0px 0px 190px;
+        padding: 0px 24px 0px 24px;
+        background-color: var(--color7);
+    }
+
+    .header-two__nav-two__list {
+        width: 0px;
+    }
+
+    .news {
+        position: absolute;
+        margin: -10px 0px 0px 32px;
+        padding-bottom: 30px;
+        padding-right: 0px;
+    }
+
+    .blogs {
+        position: absolute;
+        margin: 38px 0px 0px 32px;
+        padding-bottom: 30px;
+        padding-right: 0px;
+    }
+        
+    .tops {
+        position: absolute;
+        margin: 85px 0px 0px 32px;
+        padding-bottom: 30px;
+        padding-right: 0px;
+    }
+        
+    .surveys {
+        position: absolute;
+        margin: -10px 0px 0px 175px;
+        padding-right: 0px;
+    }
+        
+    .ratings {
+        position: absolute;
+        margin: 38px 0px 0px 175px;
+        padding-right: 0px;
+    }
+      
+    .advertising {
+        position: absolute;
+        margin: 85px 0px 0px 175px;
+        padding-right: 0px;
+    }
+
+    .radio {
+        width: 320px;
+    }
+
+    .radio__bigtext, 
+    .radio__wave__bigtext {
+        position: relative;
+        width: 130px;
+        min-height: 32px;
+        font-size: 32px;
+        line-height: 32px;
+        margin-top: 53px;
+        margin-left: 34px;
+    }
+      
+    .radio__wave__bigtext {
+        position: absolute;
+        min-width: 140px;
+        font-family:'MullerRegularItalic', sans-serif;
+        margin: 0px;
+        margin-left: 6px; 
+    }
+      
+    .radio__mintext {
+        width: 273px;
+        height: 147px;
+        font-size: 14px;
+        line-height: 21px;
+        margin: -20px 0px 0px 35px;
+    }
+    
+    .radio__button {
+        min-width: 200px;
+        min-height: 50px;
+        font-size: 16px;
+        line-height: 16px;
+        margin: 20px 0px 40px 32px;
+        padding: 17px 45px 17px 45px;
+    }
+
+    .popup__entrance {
+        width: 57px;
+        height: 24px;
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .popup__account__registration, 
+    .popup__href__register {
+        width: 164px;
+        height: 24px;
+        color: gray;
+        font-size: 12px;
+        line-height: 24px;
+    }
+      
+    .popup__href__register {
+        position: absolute;
+        color: #6D31EE;
+        margin: -3px 0px 20px 0px;
+    }
+
+    .popup__closed { 
+        width: 28px;
+        height: 28px;    
+        margin: 0px 0px 0px 200px;
+    }
+      
+    .popup__list {
+        position: absolute;
+        margin: 70px 0px 0px 5px;
+        width: 216px;
+    }
+
+    .popup__item  {
+        width: 106px;
+        height: 24px;
+        font-size: 12px;
+        line-height: 24px;
+        color: #A1A6B4;
+        margin: 10px 0px 10px 0px;
+    }
+
+    .popup__item__social__facebook {
+        position: relative;
+        margin: -8px 0px 0px 0px;
+    }
+
+    .popup__item__social__vk {
+        position: relative;
+        margin: -10.3px 0px 15px 86px;
+    }
+      
+    .popup__item__social__google {
+        margin: -10px 0px 33px 174px;
+    }
+    
+    .box {
+        width: 218px;
+        height: 40px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    
+    .box-mobile {
+        margin-top: 40px;
+    }
+
+    .box input,
+    .box textarea {
+        opacity: 1;
+        width: 218px; 
+    }
+
+    .box__login {
+        margin-left: 18px;
+        margin-top: 12px;
+    }
+
+    .box__pass {
+        margin-left: 18px;
+        margin-top: 10px;
+    }
+
+    .button-box {
+        width: 160px;
+        height: 40px;
+        font-size: 16px;
+        line-height: 16px;
+        border-radius: 77px;
+        margin: 0px 0px 30px 0px;
+        padding: 12px 56px;
+    }
+      
+    .popup__container {
+        margin-left: -5px;
+        width: 256px;
+        height: 442px;
+        padding: 20px;
+    }
+      
+    .line, 
+    .block-eliment__play__button__earlier, 
+    .block-eliment__previously__on__air, 
+    .music, .block-eliment__now__on__air, 
+    .block-eliment__how__so {
+        display: block;
+        margin-bottom: 50px;
+    }
+
+    .block-eliment__play__button__earlier {
+        position: relative;
+    }
+
+    .block-eliment__play__button__earlier {
+        display: block;
+        position: relative;
+        margin: -3px 0px 50px -430px;
+    }
+
+    .block-eliment__previously__on__air {
+        position: relative;
+        font-size: 10px;
+        line-height: 10px;
+        margin: -60px 0px 0px -450px;
+    }
+
+    .block-eliment__music {
+        position: relative;
+        display: block;
+        width: 110px;
+        font-size: 14px;
+        line-height: 14px;
+        padding: 0px;
+        margin: -35px 0px 0px -459px;
+    }
+
+    .block-eliment__line {
+        display: none;
+    }
+    
+    .block-eliment__line-spoiler {
+        display: block;
+        width: 1px;
+        height: 62px;
+        margin-top: -70px;
+        margin-left: -324px;
+    }
+
+    .block-eliment__play__button__now__position {
+        position: absolute;
+        margin-top: -93px;
+        margin-left: -302px;
+    }
+
+    .block-eliment__play__button__now {
+        position: relative;
+        margin: 0px;
+    }
+    
+    .block-eliment__now__on__air {
+        position: relative;
+        font-size: 10px;
+        line-height: 10px;
+        margin: -98px 0px 0px -309px;
+    }
+
+    .block-eliment__how__so {
+        width: 110px;
+        position: relative;
+        font-size: 14px;
+        line-height: 14px;
+        margin: -36px 0px 0px -316px;
+    }
+
+    *, 
+    *::after,
+    *::before{
+        margin: 0;
+        padding: 0;
+        box-sizing:border-box;
+        -webkit-box-sizing:border-box;
+    }
+
+    .block-eliment {
+        width: 500px;
+        height: 500px;
+        margin-top: 23px;
+        margin-left: 465px;
+    }
+      
+    div.spoiler {
+        position: relative;
+        width: 320px;
+        margin: -120px 0px 0px 0px;
+    }
+      
+    input {
+        position: absolute;
+    }
+
+    .spoiler__open {
+        position: relative;
+        color:#6D31EE;
+        font-size: 16px;
+        font-family: 'MullerRegular', sans-serif;
+        margin-top: 160px;
+        padding: 14px 0px 14px 120px;
+        background: var(--color1);
+        border-top: 1px solid #cacaca;
+        border-bottom: 1px solid #cacaca;
+    } 
+      
+    label {
+        cursor: pointer;
+        position: relative;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        align-items: center;
+        -ms-flex-align: center;
+        -webkit-box-align: center;
+    }
+      
+    div.spoiler__inside {
+        max-height:0px;
+        margin-top: -11px;
+        overflow: hidden;
+        -webkit-transition:max-height 0.5s;
+        -o-transition:max-height 0.5s;
+        transition:max-height 0.5s;
+        background-color: var(--color1);
+    }
+
+    div.spoiler__inside p {
+        padding:2em;
+    }
+      
+    input:checked ~ .spoiler__open ~ .spoiler__inside {
+        max-height: 76px;
+    }
+      
+    .open__closespoiler__label__open__closed__buttond__btn .spoiler__svg-open {
+        display: block;
+    }
+      
+    .spoiler__label__open__closed__button .spoiler__svg-closed {
+        display: none;
+    }
+      
+    .spoiler__label__open__closed__button.spoiler__label__open__closed__button--toggle .spoiler__svg-open {
+        display: none;
+    }
+      
+    .spoiler__label__open__closed__button.spoiler__label__open__closed__button--toggle .spoiler__svg-closed {
+        display: block;
+    }
+
+    .spoiler__svg {
+        display: block;
+        position: absolute;
+        margin: -17px 0px 0px -20px;
+    }
+      
+    .spoiler__label__open__closed__button {
+        width: 15px;
+        height: 15px;
+        border: 0;
+        background: transparent;
+        padding: 0;
+        cursor: pointer;
+    }
+      
+    .spoiler__label__open__closed__button svg {
+        width: 100%;
+        height: 100%;
+    }
+
+    .spoiler__label {
+        display: block;
+    }
+
+    .container {
+        width: 320px;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    #podcasts {
+        min-width: 320px;
+        padding: 0px 0px 54px 0px;
+        margin-top: 20px;
+        background-color: var(--color7);
+    }
+
+    .podcasts-list {
+        min-width: 280px;
+        margin-left: 32px;
+    }
+      
+    .podcasts-heading {
+        width: auto;
+        height: auto;
+        font-size: 24px;
+        line-height: 24px;
+        margin: -20px 0px 0px 35px;
+        padding: 54px 0px 20px 0px;
+    }
+      
+    #podcasts-cards {
+        -ms-grid-columns: 1fr;
+        grid-template-columns: repeat(1, 1fr);
+    }
+      
+    .podcasts-item_card {
+        width: 256px;
+        height: 185px;
+        margin-left: 0px;
+    }
+
+    .card-excess {
+        display: none;
+    }
+
+    #podcasts__show-cards__button {
+        width: 170px;
+        min-height: 50px;
+        font-size: 16px;
+        line-height: 16px;
+        padding: 17px 30px 17px 30px;
+        margin: 0px 0px 0px 75px;
+    }	
+      
+    .podcasts-item_card__release__date {
+        margin: -149px 0px 0px -1px;
+        padding: 3px 8px 3px 8px;
+    }
+
+    .podcasts-item_card__release__date__two {
+        margin: -159px 0px 0px -1px;
+        padding: 3px 6px 3px 6px;
+    }
+
+    .podcasts-block_content {
+        padding: 0px 30px 0px 0px;
+    }
+
+    .podcasts-item_card__social__block {
+        width: 173px;
+        height: 16px;
+        margin: 150px 0px 0px 34px; 
+    }
+
+    .podcasts-item_card__line__social {
+        margin: 145px 0px 0px -40px;
+    }
+
+    .podcasts-item_card__duration__two {
+        margin: 3px 0px 0px 16px;
+    }
+
+    .podcasts-item_card__duration {
+        margin: 13px 0px 0px 16px;
+    }
+
+    .podcasts-item_card__description, 
+    .podcasts-item_card__description__two {
+        font-size: 16px;
+        line-height: 16px;
+        margin: 3px 0px 0px 16px;
+    }
+      
+    .podcasts-item_card__description {
+        margin-top: 8px;
+    }
+      
+    .podcasts-item_card__hosts__podcast, 
+    .podcasts-item_card__hosts__podcast__two {
+        width: 116px;
+        height: 12px;
+        font-size: 12px;
+        line-height: 12px;
+        margin: 4px 0px 0px 16px;
+    }
+
+    .podcasts-item_card__hosts__podcast__two {
+        margin-top: 1px;
+    }
+      
+    .podcast-enable_common {
+        position: absolute;
+        width: 36px;
+        height: 36px;
+        margin: 85px 0px 0px 204px;
+    }
+
+    .button-individual1 {
+        margin: 100px 0px 0px 204px;
+    }
+
+    #transfers {
+        min-width: 320px;
+        padding: 0px 0px 0px 0px;
+    }
+      
+    .transfers-heading {
+        min-width: 114px;
+        min-height: 24px;
+        font-weight: 400;
+        line-height: 24px;
+        font-size: 24px;
+        margin: 0px;
+        padding: 50px 0px 20px 35px;
+    }
+      
+    .transfers-aftor {
+        width: 38px;
+        height: 12px;
+        font-weight: 400;
+        font-size: 12px;
+        font-family: sans-serif;
+        line-height: 12px;
+        margin: 0px 0px 6px 32px;
+    }
+
+    .transfer-block_content {
+        padding: 0px;
+    }
+
+    .transfers-select_container {
+        padding-bottom: 30px;
+        margin-left: 32px;
+    }
+      
+    .transfer-line {
+        width: 355px;
+        top: 2290px;
+        padding: 0px;
+        margin-bottom: 30px;
+        background-color: #A1A6B4;
+    }
+        
+    .transfer-microphone {
+        position: absolute;
+        top: 2273px;
+        margin: 49px 0px 0px 32px;
+    }
+
+    .transfers-button {
+        width: 110px;
+        min-height: 35px;
+        padding: 6px 31px 9px 31px;
+        top: 2370px;
+        margin: 20px 0px 30px 122px;
+    }
+    
+    .transfers-archive_description {
+        width: 175px;
+        height: 63px;
+        margin: 579px 30px 7px 125px;
+    }
+
+    .transfers-arrow path {
+        fill: #6D31EE;
+    }
+
+    .transfers-list {
+        width: 270px;
+        margin: -655px 0px 0px 32px;
+    }
+      
+    .transfers-card {
+        width: 115px;
+        min-height: 151px;
+    }
+
+    .transfer-description {
+        width: 96px;
+        min-height: 12px;
+        font-size: 12px;
+        line-height: 12px;
+        margin: 10px 0px 5px 10px;
+    }
+
+    .info__transfer, 
+    .transfer-announcement {
+        width: 90px;
+        min-height: 18px;
+        font-size: 9px;
+        line-height: 9px;
+        margin: 0px 0px 18px 10px;
+    }
+
+    .transfer-announcement {
+        margin: 0px 0px 20px 10px;
+    }
+
+    .transfer-announcement-mobile {
+        margin: 0px 0px -10px 10px;
+    }
+    
+    .transfers-detailed {
+        width: 66px;
+        height: 12px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+        color: #6D31EE;
+        margin: 24px 0px 12px 10px;
+    }
+      
+    .transfers-arrow {
+        position: absolute;
+        cursor: pointer;
+        color: #6D31EE;
+        margin: 0px 0px 0px 75px;
+    }
+
+    #guests {
+        min-width: 320px;
+        height: 1730px;
+        padding: 0px 0px 54px 0px;
+        margin: 176px 0px 0px 0px;
+    }
+
+    .guests-description {
+        width: 286px;
+        height: 163px;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+        margin: 0px;
+        padding: 24px 0px 30px 32px;
+    }
+
+    .guests-heading {
+        width: 62px;
+        height: 24px;
+        font-size: 24px;
+        line-height: 24px;
+        margin: 0px;
+        padding: 54px 0px 0px 33px;        
+    }
+
+    .guests-are {
+        width: 136px;
+        height: 21px;
+        font-size: 14px;
+        line-height: 21px;
+        margin: 0px;
+        padding: 30px 0px 0px 33px;
+    }
+
+    .blogers {
+        width: 256px;
+        padding: 16px 0px 16px 0px;
+    }
+
+    .ac-panel {
+        width: 290px;
+    }
+
+    .button-arrow_svg {
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        left: 255px;
+        margin-top: -5px;
+    }
+
+    .list__accordion {  
+        width: 290px;
+        margin-left: 30px;
+    }
+
+    .guest-block {
+        width: 266px;
+        height: 573px;
+        left: 15px;
+        top: 3522px;
+        padding: 31px 0px 94px 15px;
+    }
+
+    .guest-photo {
+        width: 256px;
+        height: 159px;
+    }
+
+    .guest-description {
+        width: 245px;
+        height: 261px;
+    }
+
+    .guests-button_card {
+        margin: 0px;
+    }
+
+    .guests-name {
+        position: relative;
+        width: 70px;
+        height: 30px;
+        margin-top: 30px;
+    }
+
+    .blogger-card2 {
+        width: 100px;
+        margin: -240px 0px 90px 144px;
+    }
+      
+    .blogger-card3 {
+        width: 110px;
+        margin: -60px 0px 90px 0px;
+    }
+      
+    .blogger-card4 {
+        width: 100px;
+        margin: -300px 0px 90px 144px;
+    }
+
+    .playlists-radiobutton, 
+    .playlists-radiobutton2 {
+        display: none;
+    }
+
+    .swiper-container {
+        width: auto;
+        height: 24px;
+        margin: 6px 0px -10px 0px;
+        overflow: hidden;
+    }
+
+    .swiper-mobile {
+        display: block;
+        width: 250px;
+        margin-left: 32px;
+    }
+
+    .swiper-text {
+        width: auto;
+        height: 24px;
+        font-size: 16px;
+        line-height: 16px;
+        font-weight: 500;
+        font-family: "MullerNarrow-Light",sans-serif;
+        cursor: pointer;
+        color: #6D31EE;
+        background: transparent;
+        border: 2px solid #6D31EE;
+        border-radius: 77px;
+        padding: 1px 20px 9px 20px;
+    }
+
+    .swiper-text:active {
+        background-color: #6D31EE;
+        color: #FFFFFF;
+    }
+
+    #playlists {
+        min-width: 208px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .playlists-heading {
+        width: 129px;
+        height: 24px;
+        font-size: 24px;
+        line-height: 24px;
+        margin: 0px;
+        padding: 54px 0px 20px 32px;
+    }
+    
+    .playlists-genre {
+        width: 33px;
+        height: 12px;
+        font-size: 12px;
+        line-height: 12px;
+        margin: 0px;
+        margin-top: 20px;
+        margin-left: 32px;
+    }
+
+    .playlists-block_content {
+        padding: 0px;
+    }
+
+    .playlists-item {
+        width: 113px;
+        height: 159px;
+        margin: 0px 0px 30px 0px;
+        padding: 0px;
+        border: 1px solid #E6E8EC;
+    }
+
+    .item-right_mini {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    
+    .playlists-list {
+        width: 270px;
+        margin-left: 30px;
+        margin-right: 0px;
+    }
+
+    .item-right  {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    
+    .item-left {
+        margin-left: 30px;
+        margin-right: 0px;
+    }
+
+    .playlists-flag {
+        margin: -115px 0px 0px 0px;
+    }
+
+    .playlists-item:active .playlists-flag {
+        margin-top: -160px;
+    }
+
+    .playlists-description {
+        width: 85px;
+        height: 12px;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 12px;
+        margin: 5px 0px 0px 10px;
+    }
+      
+    .playlists-info {
+        width: 93px;
+        height: 9px;
+        font-weight: 400;
+        font-size: 9px;
+        line-height: 9px;
+        margin: 23px 0px 10px 10px;
+    }
+
+    .playlists-item:active .playlist-button_play {
+        width: 111px;
+        height: 111px;
+        margin: -160px 0px 0px 0px;
+    }
+      
+    .playlists-item:active .playlists-description {
+        width: 112px;
+        height: 47px;
+        margin: -27px 0px 0px 0px;
+        padding: 10px 0px 0px 10px;
+    }
+      
+    .playlists-item:active .playlists-info {
+        margin-left: 10px;
+    }
+
+    .playlists-line {
+        width: 280px;
+        margin: 1180px 0px 28px 28px;
+    }
+
+    .playlist-info, 
+    .playlist-copyright_wave {
+        width: 240px;
+        min-height: 44px;
+        font-size: 12px;
+        line-height: 12px;
+        padding-top: 0px;
+        margin: 1209px 0px 0px 32px;
+    }
+      
+    .playlist-copyright_wave {
+        position: absolute;
+        margin: 1250px 0px 0px 32px; 
+    }
+
+    .playlists-limitation_18 {
+        position: absolute;
+        margin: 1270px 0px 0px 32px;
+        padding-bottom: 54px;
+    }
+
+    #product {
+        min-width: 320px;
+        min-height: 900px;
+        padding: 0px;
+        margin-top: 175px;
+    }
+      
+    .product-new {
+        width: 62px;
+        height: 62px;
+        margin: 54px 0px 0px 32px;
+        background: url("../img/photo__new4.svg");
+    }
+      
+    .product-photo {
+        width: 256px;
+        height: 225px;
+        background: url("../img/photo__product4.png");
+        margin: 54px 0px 30px 32px;
+    }
+      
+    .product-heading {
+        width: 256px;
+        min-height: 48px;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 24px;
+        margin: 0px;
+        padding: 310px 0px 12px 32px;
+    }
+      
+    .product-wavy_line {
+        width: 254px;
+        margin: 372px 0px 19px 32px;
+    }
+      
+    .product-presentation, 
+    .product-description {
+        width: 288px;
+        min-height: 124px;
+        font-size: 14px;
+        line-height: 22px;
+        margin: 0px;
+        padding: 23px 0px 12px 32px;
+    }
+      
+    .product-description {
+        width: 288px;
+        min-height: 210px;
+        font-size: 14px;
+        line-height: 22px;
+        margin: 0px;
+        padding: 0px 0px 12px 32px;
+    }
+      
+    .product-price {
+        margin: 0px;
+        padding: 0px 0px 20px 32px;
+    }
+      
+    .product-svg_icon {
+        margin: 15px 0px 0px 57px;
+    }
+      
+    .product-buy-href {
+        min-width: 256px;
+        min-height: 50px;
+        font-size: 16px;
+        line-height: 16px;
+        padding: 14px 16px 17px 44px;
+        margin: 0px 0px 54px 37px;
+    }
+
+    #about_us {
+        min-width: 320px;
+        min-height: 1135px;
+        padding: 0px;
+    }
+
+    .about_us-heading {
+        width: 65px;
+        min-height: 64px;
+        font-size: 24px;
+        line-height: 24px;
+        margin: 0px;
+        padding: 54px 0px 12px 35px;
+    }
+
+    #notify {
+        font-size: 10px;
+        margin: 7497px 0px 0px 64px;
+    }
+
+    .about_us-description {
+        width: 291px;
+        min-height: 27px;
+        font-size: 14px;
+        line-height: 21px;
+        margin: 0px;
+        padding: 10px 0px 4px 35px;
+    }
+
+    .about_us-description_title {
+        width: 291px;
+        min-height: 219px;
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0px 0px 0px 35px;
+        margin: 0px;
+    }
+
+    .about_us-spiral {
+        display: none;
+    }
+
+    .about_us-star {
+        display: none;
+    }
+
+    .swiper-container_about_us {
+        width: 540px;
+        margin-left: 27px;
+    }
+
+    .about_us-mobile_swiper_container {
+        width: 320px;
+        height: 250px;
+        margin: 0px 0px 30px 0px;
+        overflow: hidden;
+    }
+
+    .about_us-photo_presenter {
+        padding: 0px 10px 0px 10px;
+    }
+
+    .swiper-button-next, 
+    .swiper-button-prev {
+        display: none;
+    }
+  
+    .about_us-leading_ether {
+        width: 13px;
+        height: 36px;
+        font-size: 14px;
+        line-height: 18px;
+        margin: 5px 0px 0px 10px;
+    }
+
+    .about_us-description_presenter {
+        width: 115px;
+        height: 48px;
+        font-size: 12px;
+        line-height: 16px;
+        margin: 5px 0px 0px 10px;
+    }
+
+    #form {
+        margin-left: 27px;
+        width: 270px;
+        height: 50px;
+    }
+
+    .about_us-text {
+        margin-top: -30px;
+        margin-left: 10px;
+    } 
+
+    .about_us-box1 {
+        font-size: 16px;
+    }
+
+    .about_us-box2 {
+        width: 256px;
+        height: 50px;
+        font-size: 16px;
+        padding: 0px;
+        margin: 0px 0px 0px -20px;
+    }
+
+    .about_us-box1 textarea {
+      border-radius: 20px; 
+    } 
+
+    textarea.about_us-text {
+        width: 256px;
+        height: 150px;
+        padding-top: 17px;
+        padding-left: 14px;
+    }
+      
+    input.about_us-mail {
+        width: 256px;
+        height: 50px;
+    }
+
+    input[type="checkbox"]:checked + label:after, 
+    input[type="checkbox"]:not(:checked) + label:after {
+        left: 10px;
+        top: 5px;
+    }   
+
+    input[type="checkbox"]:checked + label:before, 
+    input[type="checkbox"]:not(:checked) + label:before {
+        top: 2.5px;
+        left: 8px;
+    }
+
+    input[type="checkbox"]:checked, 
+    input[type="checkbox"]:not(:checked) {
+        width: 280px;
+        top: 20px;
+        left: -187px;
+        margin: -20px 0px 0px 0px;
+    }
+
+    input[type="checkbox"]:checked + label, 
+    input[type="checkbox"]:not(:checked) + label {
+        padding-bottom: 54px;
+        width: 230px;
+    }
+
+    .about_us-mail {
+        margin: 50px 0px 0px 30px;
+    }
+
+    .about_us-name, 
+    .about_us-mail, 
+    #username  {
+        padding-left: 24px;
+    }
+
+    #username {
+        width: 256px;
+        height: 50px;
+    }
+
+    .about_us-button_box {
+        width: 172px;
+        min-height: 50px;
+        margin: 83px 0px 8px 10px;
+        text-align: center;
+        padding: 0px;
+    }
+      
+    .about_us-approval {
+        width: 221px;
+        height: 13px;
+        font-size: 9px;
+        margin: 0px 0px 0px 9px;
+    }
+
+    #futor {
+        min-width: 320px;
+        height: 474px;
+        padding-top: 54px;
+    }
+    
+    .futor-logo {
+        margin: 0px 0px 20px 83px;
+    }
+      
+    .futor-social_indent {
+        margin-left: 83px;
+        padding-bottom: 54px;
+    }
+
+    .futor-list {
+        width: 320px;
+        height: 223px;
+        padding-bottom: 200px;
+        margin-left: 0px;
+        background: var(--color6);
+    }
+
+    .futor-item {
+        width: 65px;
+        height: 12px;
+        font-size: 12px;
+        line-height: 12px;
+        padding: 30px 0px 0px 0px;
+        margin: 0px 0px 0px 30px;
+    }
+      
+    .futor-playlists, 
+    .futor-grid {
+        position: absolute;
+        margin: 0px;
+        padding-top: 120px;
+        padding-bottom: 24px;
+    }
+
+    .futor-about_us {
+        position: absolute;
+        margin-top: -40px;
+    }
+
+    .futor-grid {
+        margin-top: 38px;
+    }
+      
+    .futor-news, 
+    .futor-tops, 
+    .futor-blogs, 
+    .futor-about_us {
+        position: absolute;
+        margin-left: 146px;
+        padding-top: 40px;
+    }
+      
+    .futor-line {
+        width: 320px;
+        padding: 10px 0px 10px 0px;
+    }
+
+    .futor-product_logo {
+        margin-left: 115px;
+        padding: 0px;
+    }
+}
+
+.example {
+    display: -ms-grid;
+    display: grid;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    background: -o-linear-gradient(top, white, black);
+    background: -webkit-gradient(linear, left top, left bottom, from(white), to(black));
+    background: linear-gradient(to bottom, white, black);
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
